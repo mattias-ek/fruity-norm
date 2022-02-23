@@ -1,11 +1,8 @@
 # monash-norm
 
-A set of notebooks modelling isotope anomalies in meteorites using s-process yields from the Monash group.
+fruity_norm.ipynb - A simple notebook that allows you to see the effects of internal normalisation on [FRUITY s-process yields](http://fruity.oa-teramo.inaf.it/modelli.pl).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mattias-ek/fruity-norm/HEAD?filepath=fruity_norm.ipynb) 
 
-monash_norm.ipynb - This is a simple notebook that allows you to see the effects of internal normalisation on the predicted meteorite anomalies.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mattias-ek/monash-norm2/HEAD?filepath=monash_norm.ipynb) 
+The notebook requires python 3.9 and the isopy to run locally.
 
-monash_CrTi.ipynb - This notebook compares Cr & Ti meteorite data with the modelled monash yields.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mattias-ek/monash-norm2/HEAD?filepath=monash_CrTi.ipynb)
-
-Copyright (c) 2021 Mattias Ek
+Copyright (c) 2022 Mattias Ek
