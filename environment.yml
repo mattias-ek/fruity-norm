@@ -6,4 +6,4 @@ dependencies:
   - pandas
   - pip
   - pip:
-    - isopy
+    - isopy<0.7
